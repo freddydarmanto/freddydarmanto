@@ -1,3 +1,3 @@
 <?php
-"hai"
+"hai apa kabar?"
 ?>
